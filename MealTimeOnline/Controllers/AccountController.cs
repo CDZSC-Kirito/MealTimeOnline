@@ -31,5 +31,23 @@ namespace MealTimeOnline.Controllers
         {
             return View();
         }
+
+        // GET: Accoutn/Evaluated
+        public ActionResult Evaluated()
+        {
+            return View();
+        }
+
+        // GET: Accoutn/AccountBalance
+        public ActionResult AccountBalance()
+        {
+            return View();
+        }
+
+        // GET: Accoutn/BusinessVerified
+        public ActionResult BusinessVerified()
+        {
+            return View();
+        }
     }
 }
